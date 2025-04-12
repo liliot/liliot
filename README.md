@@ -6,8 +6,8 @@ Originally from Kiribati, I’m deeply passionate about protecting our oceans th
 
 🧪 My interests include:
 - Marine conservation and restoration 🪸  
-- GIS and spatial analysis for marine environments 🗺️  
 - Community-based fisheries management 🐟
+- Climate change impacts on marine ecosystems 🌡️
 
 
 
