@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there and welcome to my GitHub profile👋
 
-<!--
-**liliot/liliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Liliana Iotebatu — a Master of Marine Biology student at James Cook University, specialising in Marine Conservation and Management 🌊🐠.
 
-Here are some ideas to get you started:
+Originally from Kiribati, I’m deeply passionate about protecting our oceans through sustainable and community-driven approaches to conservation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 My interests include:
+- Marine conservation and restoration 🪸  
+- GIS and spatial analysis for marine environments 🗺️  
+- Community-based fisheries management 🐟
+
+
+
